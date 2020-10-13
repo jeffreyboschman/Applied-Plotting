@@ -3,7 +3,7 @@
 This repository contains projects I have worked on that demonstrate my ability to process and visualize data in Python. 
 
 ### Burnaby and Vancouver 2018 Half Marathon Top 40 Time Distributions
-This project involved finding and processing some sort of sports/athletics data from publically available datasets from your hometown, stating a research question, and then creating a visual using Matplotlib that addresses the stated research question. I have chosen to look into: How do the distributions of race times for the top 40 participants compare across 4 different half-marathons (Vancouver Chilly Chase, Shamrock'n Race, Vancouver Historic Half, Fall Classic) in Burnaby and Vancouver in 2018? As well, the data visualization is truthful, functional, beautiful, insightful, and enlightening - the qualities described by Alberto Cairo in his book _The Truthful Art: Data, Charts, and Maps for Communication_. Please see the Jupyter notebook for more details on the implementation and discussion. 
+This project involved finding and processing some sort of sports/athletics data from publically available datasets from your hometown, stating a research question, and then creating a visual using Matplotlib that addresses the stated research question. I have chosen to look into: How do the distributions of race times for the top 40 participants compare across 4 different half-marathons (Vancouver Chilly Chase, Shamrock'n Race, Vancouver Historic Half, Fall Classic) in Burnaby and Vancouver in 2018? As well, the data visualization encompasses Cairo's Five Qualities of Great Visualizations [1]; it is truthful, functional, beautiful, insightful, and enlightening. Please see the Jupyter notebook for more details on the implementation and discussion. 
 
 ![alt text](https://github.com/jeffreyboschman/Applied-Plotting/blob/main/images/Burnaby%20and%20Vancouver%202018%20Half%20Marathon%20Top%2040%20Time%20Distributions.png?raw=true)
 
@@ -13,7 +13,6 @@ This project invovled helping users make more confident decisions in regards to 
 
 
 
-(1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ferreira, N., Fisher, D., & Konig, A. C. (2014, April). [Sample-oriented task-driven visualizations: allowing users to make better, more confident decisions.](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 571-580). ACM. ([video](https://www.youtube.com/watch?v=BI7GAs-va-Q))
+[1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Cairo, The Truthful Art: Data, Charts, and Maps for Communication. New Riders, 2016. 
 
-[1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N. Ferreira, D. Fisher, and A. C. Konig, “[Sample-oriented task-driven visualizations: allowing users to make better, more confident decisions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf),” _In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, pp. 571–580, Apr. 2014. ([video](https://www.youtube.com/watch?v=BI7GAs-va-Q))
+[2] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N. Ferreira, D. Fisher, and A. C. Konig, “[Sample-oriented task-driven visualizations: allowing users to make better, more confident decisions](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf),” _In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, pp. 571–580, Apr. 2014. ([video](https://www.youtube.com/watch?v=BI7GAs-va-Q))
